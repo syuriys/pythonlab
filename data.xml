@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<db>
+
+<programmers>
+    <programmer>
+        <id>1</id>
+        <name>John Harker</name>
+        <birthdate>20.07.1985</birthdate>
+        <address>
+            <country>USA</country><city>New-York</city>
+        </address>
+        <position>Middle Python Developer</position>
+    </programmer>
+    <programmer>
+        <id>2</id>
+        <name>Tom Wilson</name>
+        <birthdate>14.10.1999</birthdate>
+        <address>
+            <country>USA</country><city>Washington</city>
+        </address>
+        <position>Junior Javascript Developer</position>
+    </programmer>
+    <programmer>
+        <id>3</id>
+        <name>Patrick Brown</name>
+        <birthdate>01.02.1976</birthdate>
+        <address>
+            <country>Great Britain</country><city>London</city>
+        </address>
+        <position>Senior Architect</position>
+    </programmer>
+    <programmer>
+        <id>4</id>
+        <name>Max Martins</name>
+        <birthdate>05.09.1992</birthdate>
+        <address>
+            <country>Canada</country><city>Vancouver</city>
+        </address>
+        <position>Middle C# Developer</position>
+    </programmer>
+    <programmer>
+        <id>5</id>
+        <name>Ted Morran</name>
+        <birthdate>17.12.1997</birthdate>
+        <address>
+            <country>USA</country><city>Boston</city>
+        </address>
+        <position>Middle C++ Developer</position>
+    </programmer>
+</programmers>
+
+
+<positions>
+    <pos>
+        <id>1</id>
+        <title>Junior</title>
+    </pos>
+    <pos>
+        <id>2</id>
+        <title>Middle</title>
+    </pos>
+    <pos>
+        <id>3</id>
+        <title>Senior</title>
+    </pos>
+</positions>
+
+
+<position_history>
+    <ph worker_id="1" pos_id="1" start="05.06.2006" end="09.11.2009"/>
+    <ph worker_id="1" pos_id="2" start="09.11.2009" end=""/>
+    <ph worker_id="2" pos_id="1" start="20.08.2019" end=""/>
+    <ph worker_id="3" pos_id="1" start="16.09.1998" end="19.02.2001"/>
+    <ph worker_id="3" pos_id="2" start="19.02.2001" end="21.01.2005"/>
+    <ph worker_id="3" pos_id="3" start="21.01.2005" end=""/>
+    <ph worker_id="4" pos_id="1" start="03.08.2012" end="02.05.2015"/>
+    <ph worker_id="4" pos_id="2" start="02.05.2015" end=""/>
+    <ph worker_id="5" pos_id="1" start="01.04.2016" end="18.10.2018"/>
+    <ph worker_id="5" pos_id="2" start="18.10.2018" end=""/>
+</position_history>
+
+</db>
