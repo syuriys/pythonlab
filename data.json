@@ -1,0 +1,122 @@
+{
+	"programmers": [
+      {
+        "id": "1",
+        "name": "John Bakon",
+        "birthdate": "22.08.1983",
+        "address": {
+          "country": "USA",
+          "city": "New-York"
+        }
+      },
+      {
+        "id": "2",
+        "name": "Tom Ford",
+        "birthdate": "14.10.1998",
+        "address": {
+          "country": "USA",
+          "city": "Washington"
+        }
+      },
+      {
+        "id": "3",
+        "name": "Patrick Brown",
+        "birthdate": "01.02.1974",
+        "address": {
+          "country": "Great Britain",
+          "city": "London"
+        }
+      },
+      {
+        "id": "4",
+        "name": "Riky Martins",
+        "birthdate": "05.09.1992",
+        "address": {
+          "country": "Canada",
+          "city": "Vancouver"
+        }
+      },
+      {
+        "id": "5",
+        "name": "Ted Berron",
+        "birthdate": "17.12.1995",
+        "address": {
+          "country": "USA",
+          "city": "Boston"
+        }
+      }
+    ],
+
+	"positions": [
+      {
+        "id": "1",
+        "title": "Junior"
+      },
+      {
+        "id": "2",
+        "title": "Middle"
+      },
+      {
+        "id": "3",
+        "title": "Senior"
+      }
+    ],
+
+	"position_history": [
+	  {
+        "worker_id": "1",
+        "pos_id": "1",
+        "start": "05.06.2006",
+        "end": "09.11.2009"
+      },
+      {
+        "worker_id": "1",
+        "pos_id": "2",
+        "start": "09.11.2010"
+      },
+      {
+        "worker_id": "2",
+        "pos_id": "1",
+        "start": "20.08.2022"
+      },
+      {
+        "worker_id": "3",
+        "pos_id": "1",
+        "start": "16.09.1998",
+        "end": "19.02.2001"
+      },
+      {
+        "worker_id": "3",
+        "pos_id": "2",
+        "start": "19.02.2001",
+        "end": "21.01.2005"
+      },
+      {
+        "worker_id": "3",
+        "pos_id": "3",
+        "start": "21.01.2005"
+      },
+      {
+        "worker_id": "4",
+        "pos_id": "1",
+        "start": "03.08.2012",
+        "end": "02.05.2015"
+      },
+      {
+        "worker_id": "4",
+        "pos_id": "2",
+        "start": "02.05.2015"
+      },
+      {
+        "worker_id": "5",
+        "pos_id": "1",
+        "start": "01.04.2020",
+        "end": "18.10.2023"
+      },
+      {
+        "worker_id": "5",
+        "pos_id": "2",
+        "start": "18.10.2023"
+      }
+    ]
+ }
